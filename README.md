@@ -16,7 +16,7 @@ A computer vision project that controls screen brightness using hand gestures.
 
 ## Demo
 
-https://github.com/user-attachments/assets/536c5005-0802-4beb-9821-5a9d54ad6b14
+https://github.com/user-attachments/assets/1e1b3cd5-ad12-4fba-a6eb-b8ee82c3553d
 
 ## Installation
 
